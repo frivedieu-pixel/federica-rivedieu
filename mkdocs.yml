@@ -5,8 +5,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Nombre Estudiante
 copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
-site_url: https://fablabbcn.github.io/efdi-template/
-repo_url: https://github.com/fablabbcn/efdi-template
+site_url: https://frivedieu-pixel/federica-rivedieu/
+repo_url: https://github.com/frivedieu-pixel/federica-rivedieu
 
 nav:
   - Home: index.md
