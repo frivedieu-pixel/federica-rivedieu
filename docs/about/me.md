@@ -1,6 +1,6 @@
-# Sobre mi
+# **Federica Rivedieu**
 
-![](../images/hola/hola.png)
+![](../images/hola/foto-personal.jpg)
 
-Soy Mathias Rodriguez
-
+Licenciada en diseño industrial perfil producto especializada en dibujo técnico y modelado 3D. 
+ 
