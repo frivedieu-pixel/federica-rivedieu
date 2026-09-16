@@ -11,4 +11,4 @@ Mi interés por la fabricación digital nace a partir de dos proyectos en donde 
 * Participación en el proceso de diseño y desarrollo de producto (consola de sonido), donde utilizamos la impresión 3D para el prototipado.
 * Diseño y desarrollo de mobiliario, explorando el vínculo entre materialidad, oficio y diseño contemporáneo, teniendo como objetivo poder optimizar parte del proceso por ejemplo utilizando CNC (Control Numérico Computarizado)
 
-[Para mas información](../files/CV.pdf){target="_blank"}
+[**Para mas información**](../files/CV.pdf){target="_blank"}

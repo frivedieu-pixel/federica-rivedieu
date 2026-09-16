@@ -1,10 +1,10 @@
 :root>* {
 
-    --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-bg-color: rgb(0, 0, 0);
+    --md-footer-fg-color: rgb(255, 255, 255);
     --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --md-footer-fg-color--lighter:  rgb(0, 0, 0);
+    --md-footer-fg-color--light:  rgb(0, 0, );
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(0, 0, 0);
@@ -30,7 +30,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(114, 6, 98);
 }
 
 .md-typeset h2 {
@@ -43,7 +43,7 @@
 }
 
 :root {
-  --md-primary-fg-color:        #09ba98;
-  --md-primary-fg-color--light: rgb(37, 243, 202);
+  --md-primary-fg-color:        #000000;
+  --md-primary-fg-color--light: rgb(135, 10, 166);
   --md-primary-fg-color--dark:  #0c453aff;
 }

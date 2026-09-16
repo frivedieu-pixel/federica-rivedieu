@@ -1,9 +1,9 @@
 
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona & Fab Lab Esan
+site_name: Federica Rivedieu - UTEC & Fab Lab Barcelona & Fab Lab Esan
 site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
+site_author: Federica Rivedieu
+copyright: Copyleft 2024 "Federica Rivedieu" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
 site_url: https://frivedieu-pixel/federica-rivedieu/
 repo_url: https://github.com/frivedieu-pixel/federica-rivedieu
@@ -42,7 +42,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: custom
-    accent: purple
+    accent: blue
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
