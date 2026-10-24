@@ -1,14 +1,16 @@
-# **Creación de sitio web**
+# MT01 - Introducción a herramientas digitales
+
+## **Creación de sitio web**
 
 En esta sección estaré documentando las diferentes herramientas que utilice para crear el sitio web
 
-## **Crear cuenta en GitHub** 
+### **Crear cuenta en GitHub** 
 
 ![](../images/hola/25231.png){ width=50 align=right}
 
 Plataforma en línea que utiliza el sistema de control de versiones de Git 
 
-## **Instalar y configurar Git en tu pc** 
+### **Instalar y configurar Git en tu pc** 
 
 ![](../images/hola/Git-Icon-1788C.png){ width=50 align=right}
 
@@ -19,7 +21,7 @@ los comando necesarios son
 ![](../images/hola/1.png)
 En mi caso utilice el nombre de usuario y mail asociado a mi cuenta GitHub
 
-## **Generar una SSH Key en GitHub**
+### **Generar una SSH Key en GitHub**
 
 Permite conectar de forma segura tu computadora a GitHub
 
@@ -29,7 +31,7 @@ Permite conectar de forma segura tu computadora a GitHub
 
 *Comando para copiar clave: clip < ~/.shh/id_ed25519.pub*
 
-## **Agregar tu SSH Key a GitHub**
+### **Agregar tu SSH Key a GitHub**
 
 Con esto terminaremos de asociar nuestra computadora a GitHub, pero algo importante: pegar clave pública y nunca la privada!!
 
@@ -43,7 +45,7 @@ Con esto terminaremos de asociar nuestra computadora a GitHub, pero algo importa
 
 ![](../images/hola/pc.png)
 
-## **Fork**
+### **Fork**
 
 Copia de un repositorio en GitHub que se crea dentro de tu propia cuenta. En nuestro caso se nos brinda un template creado para EFDI, será nuestro punto de partida Una vez dentro debemos hacer "click" en "Name: Github Repo"
 
@@ -53,7 +55,7 @@ Una vez dentro debemos hacer "click" en "Name: Github Repo", esto nos llevara a 
 
 ![](../images/hola/fork2.png) 
 
-## **Crear repositorio local en tu pc - clone**
+### **Crear repositorio local en tu pc - clone**
 
 Crear una copia local del proyecto que podrás editar, modificar y actualizar desde tu computadora. Antes de comenzar debemos dar permiso desde GitHub para que esto suceda, este paso es muy importante! Debemos entrar a la pestaña "Actions" y dar permiso.
 
@@ -83,7 +85,7 @@ Una vez dentro de la carpeta debemos escribir el comando que nos permitirá clon
 
 ![](../images/hola/clonar3.png)
 
-## **Plataformas para edición de desarrollo web**
+### **Plataformas para edición de desarrollo web**
 
 Una vez clonado nuestro repositorio podremos comenzar a editar nuestra página web. En mi caso utilizaré "Visual Studio Code". El mismo es un editor de código que nos permite visualizar nuestra web, con sus diferentes secciones, pudiendo ir editando las mismas con la información, imágenes, links, etc, que nos parezcan pertinentes.
 
